@@ -42,7 +42,7 @@ app/
 - Android Studio Hedgehog (2023.1.1) 或更高版本
 - Gradle 8.13
 - Android Gradle Plugin 8.7.3
-- 最低支持 Android API 级别 21
+- 最低支持 Android API 级别 23
 - 目标 Android API 级别 36
 
 ## 构建与运行
